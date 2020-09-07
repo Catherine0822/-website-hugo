@@ -54,11 +54,6 @@ disqusShortname = ""
   URL = "blog"
   weight = 2
   
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
-
   # footer menu
   [[menu.footer]]
   name = "About"
@@ -88,7 +83,7 @@ googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "0975347725"
 email = "b04310036@g.ntu.edu.tw"
-location = "Dhaka, Bangladedsh"
+location = "Taiwan"
 # copyright
 copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
 
@@ -112,11 +107,6 @@ content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/profile.php?id=100003492657142"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 [[params.social]]
 title = "instagram"
